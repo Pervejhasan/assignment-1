@@ -48,7 +48,7 @@
 .col-12 {
   width: 100%;
 }
-
+/*================== banner image ==================== */
 .banner-img {
   background-image: url("../images/banner/banner3.png");
   width: 100%;
@@ -95,7 +95,7 @@
   color: grey;
 }
 
-/* height and width */
+/* ======================= height and width ========================= */
 
 .h-200 {
   height: 200px;
@@ -105,7 +105,7 @@
   width: 100%;
 }
 
-/* padding */
+/* ======================== padding ========================*/
 
 .p-10 {
   padding: 10px 10px;
@@ -117,13 +117,12 @@
   padding-top: 30px;
   padding-bottom: 30px;
 }
-
 .px-5 {
   padding-top: 30px;
   padding-bottom: 30px;
 }
 
-/* font-weight */
+/* =======================font-weight========================== */
 .fw-bold {
   font-weight: bold;
 }
@@ -131,16 +130,14 @@
   font-weight: bolder;
 }
 
-/* font-size */
-
+/* ======================= font-size ============================== */
 .fs-1 {
   font-size: 20px;
 }
-
 .fs-2 {
   font-size: 40px;
 }
-/* border */
+/* ========================border ===============================*/
 
 .b-0 {
   border: 0;
@@ -148,25 +145,19 @@
 .b-1 {
   border: 1px solid gray;
 }
-
-/* outline */
+/* ========================= outline ==================================*/
 .outline-0 {
   outline: none;
 }
-
-/* border radius */
-
+/* ========================== border radius =========================== */
 .br-5 {
   border-radius: 5px;
 }
-
-/* cursor */
-
+/* ===========================cursor ===================================== */
 .cursor {
   cursor: pointer;
 }
-
-/* margin */
+/* ============================ margin ================================== */
 .my-10 {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -209,7 +200,7 @@
 .mr-10 {
   margin-right: 10px;
 }
-/* text-align */
+/* ========================== text-align ============================= */
 .text-right {
   text-align: right;
 }
@@ -217,11 +208,10 @@
   text-align: center;
 }
 
-/* list-style */
+/* =================== list-style ====================*/
 .list-style-none {
   list-style-type: none;
 }
-
 /* display */
 .d-flex {
   display: flex;
@@ -231,7 +221,6 @@
 .justify-space-evenly {
   justify-content: space-evenly;
 }
-
 .gradient {
   background-image: url("../images/watch.png");
   border-radius: 10px;
@@ -239,15 +228,13 @@
   background-position: center;
   background-size: cover;
 }
-
-.gadient-image {
+.gradient-image {
   background-image: url("../images/gradient1.png");
   border-radius: 10px;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
-
 .img {
   width: 500px;
   height: 620px;
