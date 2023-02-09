@@ -94,6 +94,17 @@
 .text-gray {
   color: grey;
 }
+
+/* height and width */
+
+.h-200 {
+  height: 200px;
+}
+
+.w-100 {
+  width: 100%;
+}
+
 /* padding */
 
 .p-10 {
@@ -182,6 +193,10 @@
   margin-top: 20px;
   margin-bottom: 20px;
 }
+.my-50 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
 .ml-87 {
   margin-left: 87px;
 }
@@ -215,4 +230,25 @@
 }
 .justify-space-evenly {
   justify-content: space-evenly;
+}
+
+.gradient {
+  background-image: url("../images/watch.png");
+  border-radius: 10px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.gadient-image {
+  background-image: url("../images/gradient1.png");
+  border-radius: 10px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.img {
+  width: 500px;
+  height: 620px;
 }
